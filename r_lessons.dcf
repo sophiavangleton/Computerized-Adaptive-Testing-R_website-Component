@@ -1,0 +1,12 @@
+name: r_lessons
+title:
+username: sophiavangleton
+account: sophiavangleton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16765846
+bundleId: 11670778
+url: https://sophiavangleton.shinyapps.io/r_lessons/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
